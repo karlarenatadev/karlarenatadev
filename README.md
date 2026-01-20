@@ -61,7 +61,7 @@ Atualmente cursando **Ciência da Computação** e atuando como **Estagiária em
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Análises GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
