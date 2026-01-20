@@ -14,6 +14,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?theme=dracula&type=horizontal" />
+</div>
+
+<br>
+
 ## 👩‍💻 Sobre Mim
 
 > *"Transformando dados em estratégias de negócio."*
@@ -66,6 +72,29 @@ Atualmente cursando **Ciência da Computação** e atuando como **Estagiária em
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true"/>
+</div>
+
+<br>
+
+### ⚡ Atividade Recente
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&theme=dracula&hide_border=true&area=true" width="100%"/>
+</div>
+<br>
+
+<div align="center">
+  
+  ### 🤝 Vamos Conectar?
+  
+  <p>Estou sempre aberta a discutir novos projetos, ideias de automação ou oportunidades em dados.</p>
+
+  <a href="https://www.linkedin.com/in/karlarenata-rosario/">
+    <img src="https://img.shields.io/badge/Me_mande_uma_mensagem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renatakarla663@gmail.com">
+    <img src="https://img.shields.io/badge/Envie_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
 
 <br>
