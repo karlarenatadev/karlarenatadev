@@ -15,7 +15,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=dracula&type=horizontal" />
+  <blockquote>
+    <i>"O objetivo é transformar dados em informações, e informações em insights."</i>
+    <br>
+    <b>— Carly Fiorina</b>
+  </blockquote>
 </div>
 
 <br>
