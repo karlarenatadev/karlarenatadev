@@ -73,9 +73,10 @@ Atualmente cursando **Ciência da Computação** e atuando como **Estagiária em
 
 ## 📈 Análises GitHub
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true"/>
 </div>
 
 <br>
