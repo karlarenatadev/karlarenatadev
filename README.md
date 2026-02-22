@@ -68,15 +68,6 @@ Mais do que analisar dados, eu conecto números com comportamento e estratégia:
 
 ---
 
-## 📈 Análises GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&cache_seconds=86400"/>
-</div>
-
----
-
 ## ⚡ Atividade Recente
 
 <div align="center">
