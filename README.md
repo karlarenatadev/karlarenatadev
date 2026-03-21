@@ -33,7 +33,7 @@ Sou **Karla Renata**, Analista de Dados e estudante de **Ciência da Computaçã
 
 O que me torna única no mercado é a minha jornada: trago **mais de uma década de experiência em vendas e estratégia comercial**. Não entrego apenas scripts; entrego respostas para perguntas de negócio. 
 
-🚀 **Foco atual:** Construção de ecossistemas de dados que unem **Machine Learning**, **Business Intelligence** e **Automação (RPA/No-code)** para maximizar resultados.
+🚀 **Foco atual:** Construção de ecossistemas de dados que unem **Machine Learning**, **Business Intelligence** e **Automação** para maximizar resultados práticos.
 
 ---
 
@@ -41,7 +41,7 @@ O que me torna única no mercado é a minha jornada: trago **mais de uma década
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><strong>Análise & BI</strong></td>
+    <td align="center" width="200"><strong>Análise & Dados</strong></td>
     <td align="center" width="200"><strong>Desenvolvimento</strong></td>
     <td align="center" width="200"><strong>Automação & Cloud</strong></td>
   </tr>
@@ -59,22 +59,26 @@ O que me torna única no mercado é a minha jornada: trago **mais de uma década
     <td align="center">
       <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Projetos Estratégicos
+## 📊 Projetos em Destaque
+
+Abaixo listo algumas das soluções mais robustas que desenvolvi, focadas em resolver problemas reais através de automação, IA e análise de dados:
 
 | Projeto | Impacto & Solução | Stack |
 |:---|:---|:---|
-| **🎯 Deal Scoring Preditivo** | Previsão de risco em vendas B2B com ML, aumentando o foco da equipe comercial. | `Python`, `Scikit-learn`, `Power BI` |
-| **🚚 Gestão de Frotas (UAI)** | Monitoramento de rentabilidade por tonelada e saúde financeira de ativos. | `Power BI`, `DAX`, `Star Schema` |
-| **☁️ AWS Sales Analytics** | Detecção de anomalias em faturamento SaaS via QuickSight e Z-Score. | `AWS`, `QuickSight`, `S3` |
-| **🤖 n8n Workflow Automation** | Orquestração de fluxos entre APIs para eliminação de tarefas manuais repetitivas. | `n8n`, `Webhooks`, `Python` |
-| **🧠 AWS Cert Simulator** | Simulador inteligente com feedback em tempo real utilizando Gemini AI. | `Python`, `Gemini API`, `AWS` |
+| **🤖 [Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de Inteligência Artificial com WhatsApp para criar fluxos automatizados e inteligentes de atendimento/comunicação. | `Python`, `IA`, `APIs` |
+| **📈 [Análise Multivariada](https://github.com/karlarenatadev/projeto-analise-multivariada)** | Exploração e modelagem avançada de dados para extração de insights complexos, indo além de análises descritivas básicas. | `Python`, `Pandas`, `Estatística` |
+| **▶️ [Automação YouTube](https://github.com/karlarenatadev/automacao-youtube-python)** | Script desenvolvido para automatizar tarefas repetitivas e coleta de dados na plataforma utilizando web scraping. | `Python`, `Selenium` |
+| **🔄 [Pipeline ETL DIO](https://github.com/karlarenatadev/pipeline-etl-dio)** | Construção de um fluxo completo de Extração, Transformação e Carga (ETL), garantindo a higienização e preparo dos dados para análise. | `Python`, `ETL`, `Data Eng` |
+| **☁️ [AWS Cert Simulator](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | Plataforma interativa em JavaScript desenvolvida para a prática e fixação de conhecimentos voltados à certificação AWS Cloud Practitioner. | `JavaScript`, `HTML/CSS` |
+
+*(Acesse a aba **Repositories** no meu perfil para visualizar projetos adicionais de estudos em Python, JS e outras ferramentas).*
 
 ---
 
@@ -95,7 +99,7 @@ O que me torna única no mercado é a minha jornada: trago **mais de uma década
 
 ## 🤝 Conecte-se Comigo
 
-Estou sempre em busca de projetos que desafiem a lógica e tragam retorno real sobre o investimento. **Se o seu problema envolve dados e processos, eu adoraria ajudar a resolvê-lo.**
+Estou sempre em busca de projetos que desafiem a lógica e tragam retorno real sobre o investimento. **Se o seu problema envolve dados, automação e processos, eu adoraria ajudar a resolvê-lo.**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karlarenata-rosario/" target="_blank">
