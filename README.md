@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=220&section=header&text=Karla%20Renata&fontSize=80&fontColor=1A1D24&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Python%20|%20Business%20Intelligence&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=220&section=header&text=Karla%20Renata&fontSize=80&fontColor=1A1D24&animation=fadeIn&fontAlignY=35&desc=Data%20Intelligence%20|%20Business%20Automation%20|%20Cloud&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
 <br>
@@ -29,57 +29,63 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou **Karla Renata**, estudante de **Ciência da Computação** e atuo como **Estagiária em Dados na A3Data**. 
+Sou **Karla Renata**, Analista de Dados e estudante de **Ciência da Computação**. Atualmente, atuo na **A3Data**, onde desenvolvo soluções focadas em **People Analytics** e **Eficiência Operacional**.
 
-Meu maior diferencial é a visão de negócios: trago uma bagagem de **mais de 10 anos em vendas e estratégia comercial**. Essa experiência me permite ir muito além da construção de dashboards ou scripts; meu foco é sempre o **resultado final para o negócio**. 
+O que me torna única no mercado é a minha jornada: trago **mais de uma década de experiência em vendas e estratégia comercial**. Não entrego apenas scripts; entrego respostas para perguntas de negócio. 
 
-No meu dia a dia, utilizo a tecnologia para responder a perguntas críticas:
-- *Onde a empresa está perdendo dinheiro?*
-- *Quais gargalos operacionais estão impactando a performance?*
-- *Quais decisões baseadas em dados podem gerar mais eficiência e receita?*
+🚀 **Foco atual:** Construção de ecossistemas de dados que unem **Machine Learning**, **Business Intelligence** e **Automação (RPA/No-code)** para maximizar resultados.
 
 ---
 
-## 🧠 Mentalidade Analítica & Foco em Resultados
+## 🛠️ Stack Tecnológica & Ecossistema
 
-Acredito que dados sem contexto são apenas números. Minha abordagem envolve:
-- **Estratégia:** Traduzir métricas técnicas para a linguagem de negócios de forma clara.
-- **Eficiência:** Identificar padrões de consumo e comportamento para otimizar operações.
-- **Praticidade:** Transformar análises complexas em planos de ação práticos para a tomada de decisão.
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Análise & BI</strong></td>
+    <td align="center" width="200"><strong>Desenvolvimento</strong></td>
+    <td align="center" width="200"><strong>Automação & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 📊 Projetos Estratégicos
+
+| Projeto | Impacto & Solução | Stack |
+|:---|:---|:---|
+| **🎯 Deal Scoring Preditivo** | Previsão de risco em vendas B2B com ML, aumentando o foco da equipe comercial. | `Python`, `Scikit-learn`, `Power BI` |
+| **🚚 Gestão de Frotas (UAI)** | Monitoramento de rentabilidade por tonelada e saúde financeira de ativos. | `Power BI`, `DAX`, `Star Schema` |
+| **☁️ AWS Sales Analytics** | Detecção de anomalias em faturamento SaaS via QuickSight e Z-Score. | `AWS`, `QuickSight`, `S3` |
+| **🤖 n8n Workflow Automation** | Orquestração de fluxos entre APIs para eliminação de tarefas manuais repetitivas. | `n8n`, `Webhooks`, `Python` |
+| **🧠 AWS Cert Simulator** | Simulador inteligente com feedback em tempo real utilizando Gemini AI. | `Python`, `Gemini API`, `AWS` |
+
+---
+
+## 📈 Estatísticas & Atividade
 
 <div align="center">
-
-**Linguagens & Banco de Dados** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Análise de Dados & Machine Learning** <br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Visualização de Dados (BI)** <br>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula" height="180em" />
 </div>
 
----
-
-## 📊 Projetos em Destaque
-
-| Projeto | Tecnologias Principais | O problema que resolve (Impacto) | Link |
-|--------|----------------------|----------------------------------|------|
-| **🎯 Deal Scoring Preditivo** | `Python` `Scikit-learn` `Power BI` | Utiliza Machine Learning (Gradient Boosting) para prever a probabilidade de fechamento de negócios, gerando um Score de Risco dinâmico que ajuda a equipe comercial a priorizar oportunidades e aumentar o *win rate*. | [🔗 Ver Repositório](https://github.com/karlarenatadev/projeto-ml-deal-scoring) |
-| **🚚 Dashboard de Gestão de Frotas** | `Power BI` `DAX` | Dashboard logístico construído em Star Schema para a UAI Entregas. Monitora a saúde financeira e a eficiência de ativos, com análises de custo diário por veículo, rentabilidade por tonelada e margem real de lucro. | [🔗 Ver Repositório](https://github.com/karlarenatadev/gestao-frotas) |
-| **🤖 Automação RPA** | `Python` `PyAutoGUI` | Automatiza processos operacionais repetitivos, eliminando erros manuais e economizando horas de trabalho da equipe. | [🔗 Ver Repositório](https://github.com/karlarenatadev/automacao-pyautogui) |
-
----
-
-## ⚡ Minha Atividade Recente
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&theme=dracula&cache_seconds=86400" width="100%"/>
@@ -87,24 +93,22 @@ Acredito que dados sem contexto são apenas números. Minha abordagem envolve:
 
 ---
 
-## 🤝 Vamos Conectar?
+## 🤝 Conecte-se Comigo
 
-Estou sempre aberta a novas oportunidades, projetos desafiadores e boas conversas sobre o universo de dados, automação e estratégia de negócios.
+Estou sempre em busca de projetos que desafiem a lógica e tragam retorno real sobre o investimento. **Se o seu problema envolve dados e processos, eu adoraria ajudar a resolvê-lo.**
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/karlarenata-rosario/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:renatakarla663@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Me_mande_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/karlarenata-rosario/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:renatakarla663@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=100&section=footer"/>
+  <p><i>Última atualização: Março de 2026</i></p>
 </div>
