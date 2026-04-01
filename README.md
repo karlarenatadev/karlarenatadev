@@ -73,10 +73,11 @@ Abaixo listo algumas das soluções mais robustas que desenvolvi, focadas em res
 | Projeto | Impacto & Solução | Stack |
 |:---|:---|:---|
 | **🤖 [Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de Inteligência Artificial com WhatsApp para criar fluxos automatizados e inteligentes de atendimento/comunicação. | `Python`, `IA`, `APIs` |
-| **📈 [Análise Multivariada](https://github.com/karlarenatadev/projeto-analise-multivariada)** | Exploração e modelagem avançada de dados para extração de insights complexos, indo além de análises descritivas básicas. | `Python`, `Pandas`, `Estatística` |
-| **▶️ [Automação YouTube](https://github.com/karlarenatadev/automacao-youtube-python)** | Script desenvolvido para automatizar tarefas repetitivas e coleta de dados na plataforma utilizando web scraping. | `Python`, `Selenium` |
+| **📄 [Fluxo de Entrevistas Automatizado com n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow completo com a plataforma de automação n8n, projetado para automatizar e otimizar o processo de triagem inicial de candidatos a vagas de emprego. | `n8n`, `IA`, `APIs` |
+| **📈 [Previsão de Tempo de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Este projeto foi desenvolvido para prever o tempo de permanência de pets em abrigos (TimeInShelterDays) antes de serem adotados, como projeto final do bootcamp de Ciência de Dados disponibilizado pela Avanti.ia. | `Python`, `Pandas`, `Scikit-Learn` |
+| **▶️ [Auditor de Qualidade de Dados (Data Quality Pipeline)](https://github.com/karlarenatadev/automacao-pyautogui)** | O script automatiza o processo de validação, separando dados corrompidos, gerando logs de erro e entregando um relatório gerencial com KPIs e gráficos. | `Python`, `Pandas`,`Matplotlib`, `OS & Datetime` |
 | **🔄 [Pipeline ETL DIO](https://github.com/karlarenatadev/pipeline-etl-dio)** | Construção de um fluxo completo de Extração, Transformação e Carga (ETL), garantindo a higienização e preparo dos dados para análise. | `Python`, `ETL`, `Data Eng` |
-| **☁️ [AWS Cert Simulator](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | Plataforma interativa em JavaScript desenvolvida para a prática e fixação de conhecimentos voltados à certificação AWS Cloud Practitioner. | `JavaScript`, `HTML/CSS` |
+| **☁️ [Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | Plataforma interativa em JavaScript desenvolvida para a prática e fixação de conhecimentos voltados à certificação AWS Cloud Practitioner. | `JavaScript`, `HTML/CSS`, `Python`, `IA` |
 
 *(Acesse a aba **Repositories** no meu perfil para visualizar projetos adicionais de estudos em Python, JS e outras ferramentas).*
 
