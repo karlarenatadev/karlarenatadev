@@ -88,7 +88,7 @@ Abaixo listo algumas das soluções mais robustas que desenvolvi, focadas em res
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karlarenatadev&theme=dracula&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=karlarenatadev&theme=dracula&no-frame=true&column=4&v=1" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -97,12 +97,18 @@ Abaixo listo algumas das soluções mais robustas que desenvolvi, focadas em res
 ## 📈 Estatísticas & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula" height="180" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&v=1" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&v=1" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlarenatadev&theme=dracula" height="180" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlarenatadev&theme=dracula" height="180" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
