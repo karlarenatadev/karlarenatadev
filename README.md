@@ -29,11 +29,14 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou **Karla Renata**, Analista de Dados e estudante de **Ciência da Computação**. Atualmente, atuo na **A3Data**, onde desenvolvo soluções focadas em **People Analytics** e **Eficiência Operacional**.
+Dados, Cloud e Estratégia de Negócios. Sou **Karla Renata**, estudante de Ciência da Computação e Analista de Dados na **a3data**. 
 
-O que me torna única no mercado é a minha jornada: trago **mais de uma década de experiência em vendas e estratégia comercial**. Não entrego apenas scripts; entrego respostas para perguntas de negócio. 
+Com mais de 10 anos de *background* comercial e em estratégia digital, minha especialidade é traduzir necessidades complexas de negócios em arquiteturas de dados eficientes. Construo ecossistemas que unem **Machine Learning**, **Data Analytics** e **Cloud Computing** para maximizar resultados práticos, otimizar custos e orientar a tomada de decisão.
 
-🚀 **Foco atual:** Construção de ecossistemas de dados que unem **Machine Learning**, **Business Intelligence** e **Automação** para maximizar resultados práticos.
+🛠️ **O que estou construindo agora:**
+* Soluções analíticas de ponta a ponta com foco em performance de infraestrutura (Stack AWS: QuickSight, Athena, S3).
+* Modelos preditivos avançados voltados para estratégias de vendas (*Predictive Deal Scoring* via Gradient Boosting).
+* Aplicações web e ferramentas automatizadas integrando bancos de dados e APIs de Inteligência Artificial Generativa.
 
 ---
 
@@ -72,28 +75,34 @@ Abaixo listo algumas das soluções mais robustas que desenvolvi, focadas em res
 
 | Projeto | Impacto & Solução | Stack |
 |:---|:---|:---|
-| **🤖 [Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de Inteligência Artificial com WhatsApp para criar fluxos automatizados e inteligentes de atendimento/comunicação. | `Python`, `IA`, `APIs` |
-| **📄 [Fluxo de Entrevistas Automatizado com n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow completo com a plataforma de automação n8n, projetado para automatizar e otimizar o processo de triagem inicial de candidatos a vagas de emprego. | `n8n`, `IA`, `APIs` |
-| **📈 [Previsão de Tempo de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Este projeto foi desenvolvido para prever o tempo de permanência de pets em abrigos (TimeInShelterDays) antes de serem adotados, como projeto final do bootcamp de Ciência de Dados disponibilizado pela Avanti.ia. | `Python`, `Pandas`, `Scikit-Learn` |
-| **▶️ [Auditor de Qualidade de Dados (Data Quality Pipeline)](https://github.com/karlarenatadev/automacao-pyautogui)** | O script automatiza o processo de validação, separando dados corrompidos, gerando logs de erro e entregando um relatório gerencial com KPIs e gráficos. | `Python`, `Pandas`,`Matplotlib`, `OS & Datetime` |
-| **🔄 [Pipeline ETL DIO](https://github.com/karlarenatadev/pipeline-etl-dio)** | Construção de um fluxo completo de Extração, Transformação e Carga (ETL), garantindo a higienização e preparo dos dados para análise. | `Python`, `ETL`, `Data Eng` |
-| **☁️ [Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | Plataforma interativa em JavaScript desenvolvida para a prática e fixação de conhecimentos voltados à certificação AWS Cloud Practitioner. | `JavaScript`, `HTML/CSS`, `Python`, `IA` |
-
-*(Acesse a aba **Repositories** no meu perfil para visualizar projetos adicionais de estudos em Python, JS e outras ferramentas).*
+| **🤖 [Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de Inteligência Artificial com WhatsApp para criar fluxos automatizados e inteligentes. | `Python`, `IA`, `APIs` |
+| **☁️ [Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | Plataforma interativa (PWA) para prática de certificação AWS. Integra a API do Gemini para geração dinâmica de questões. | `Node.js`, `JS`, `Gemini API` |
+| **📈 [Predictive Deal Scoring](https://github.com/karlarenatadev)** | Modelo de Machine Learning para priorização de leads e análise de conversão em tempo real. | `Python`, `Gradient Boosting`, `SQL` |
+| **⚙️ [Engenharia de Dados TOTVS](https://github.com/karlarenatadev)** | Projetos de Fundamentos de Engenharia de Dados e ML, explorando pipelines e modelagem avançada. | `Python`, `ETL`, `Machine Learning` |
+| **📄 [Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação projetado para otimizar o processo de triagem inicial de candidatos. | `n8n`, `IA`, `APIs` |
+| **📉 [Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota 9.31) focado em estimar o tempo de permanência de pets em abrigos. | `Python`, `Scikit-Learn` |
 
 ---
 
-## 📈 Estatísticas & Atividade
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula" height="180em" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karlarenatadev&theme=dracula&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
 
+## 📈 Estatísticas & Atividade
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&theme=dracula&cache_seconds=86400" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlarenatadev&theme=dracula" height="180" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,5 +124,5 @@ Estou sempre em busca de projetos que desafiem a lógica e tragam retorno real s
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=100&section=footer"/>
-  <p><i>Última atualização: Março de 2026</i></p>
+  <p><i>Última atualização: Abril de 2026</i></p>
 </div>
