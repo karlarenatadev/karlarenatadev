@@ -126,9 +126,9 @@ Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets e
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=86400v=1" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400v=1" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
