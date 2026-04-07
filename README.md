@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karla%20Renata&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=00C896" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=200&section=header&text=Karla%20Renata&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=8B949E" width="100%"/>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://karlarenatadev.github.io/portfolio-karla-renata/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00C896?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=58A6FF" alt="Portfolio"/>
   </a>
 </div>
 
@@ -49,6 +49,8 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 ## 🛠️ Stack Tecnológica
 
+<div align="center">
+
 ### 📊 Dados & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -69,6 +71,8 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+</div>
+
 ---
 
 ## 📂 Projetos em Destaque
@@ -77,62 +81,47 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 <br>
 
-**🤖 [Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)**
-Integração de IA com WhatsApp para criar fluxos de atendimento automatizados e inteligentes.
-`Python` `IA Generativa` `APIs`
-
----
-
-**☁️ [Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)**
-PWA interativa para prática de certificação AWS com geração dinâmica de questões via API do Gemini.
-`Node.js` `JavaScript` `Gemini API`
-
----
-
-**📈 [Predictive Deal Scoring](https://github.com/karlarenatadev)**
-Modelo de ML para priorização de leads e análise de conversão em tempo real — direto na esteira comercial.
-`Python` `Gradient Boosting` `SQL`
-
----
-
-**⚙️ [Engenharia de Dados TOTVS](https://github.com/karlarenatadev)**
-Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia de Dados e ML.
-`Python` `ETL` `Machine Learning`
-
----
-
-**📄 [Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)**
-Workflow de automação para otimizar triagem inicial de candidatos, reduzindo trabalho manual de RH.
-`n8n` `IA` `APIs`
-
----
-
-**📉 [Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)**
-Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos.
-`Python` `Scikit-Learn`
-
----
-
-## 🏆 Conquistas no GitHub
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karlarenatadev&theme=dracula&no-frame=true&column=4&margin-w=8&v=1" alt="GitHub Trophies"/>
+  <a href="https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&repo=projeto-final-bootcamp-avantiia-ciencia-de-dados&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/karlarenatadev/agente-de-ia-e-whatsapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&repo=agente-de-ia-e-whatsapp&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&hide_border=true" width="48%" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/karlarenatadev/projeto-simulados-certificacao-aws">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&repo=projeto-simulados-certificacao-aws&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&repo=fluxo-de-entrevistas-n8n&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&hide_border=true" width="48%" />
+  </a>
+</div>
+
+<br>
+
+**📈 [Predictive Deal Scoring]([INSERIR-LINK-AQUI])** Modelo de ML para priorização de leads e análise de conversão em tempo real — direto na esteira comercial.  
+`Python` `Gradient Boosting` `SQL`
+
+**⚙️ [Engenharia de Dados TOTVS]([INSERIR-LINK-AQUI])** Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia de Dados e ML.  
+`Python` `ETL` `Machine Learning`
 
 ---
 
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlarenatadev&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=86400v=1" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400v=1" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&theme=dracula&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&bg_color=0D1117&color=8B949E&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="Gráfico de Atividade da Karla" />
 </div>
 
 ---
@@ -154,6 +143,6 @@ Se o seu desafio envolve **dados, automação ou processos** — adoraria entend
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=100&section=footer"/>
   <sub><i>Última atualização: Abril de 2026</i></sub>
 </div>
