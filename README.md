@@ -87,8 +87,7 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 | **[📉 Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos. | `Python` `Scikit-Learn` |
 | **[☁️ Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | PWA interativa para prática de certificação AWS com geração dinâmica de questões. | `Node.js` `JavaScript` `Gemini API` |
 | **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
-| **[📈 Predictive Deal Scoring]([INSERIR-LINK-AQUI])** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
-| **[⚙️ Engenharia de Dados TOTVS]([INSERIR-LINK-AQUI])** | Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia e ML. | `Python` `ETL` `ML` |
+| **[📈 Predictive Deal Scoring](https://github.com/karlarenatadev/projeto-ml-deal-scoring)** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
 
 ---
 
