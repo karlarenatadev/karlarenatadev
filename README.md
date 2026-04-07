@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=200&section=header&text=Karla%20Renata&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=8B949E" width="100%"/>
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,C6E2FF&height=220&section=header&text=Karla%20Renata&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=FFFFFF" width="100%"/>
 </div>
-
 <br>
 
 <div align="center">
@@ -122,6 +121,6 @@ Se o seu desafio envolve **dados, automação ou processos** — adoraria entend
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=100&section=footer"/>
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,C6E2FF&height=100&section=footer"/>
   <sub><i>Última atualização: Abril de 2026</i></sub>
 </div>
