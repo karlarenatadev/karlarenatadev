@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,BC8CFF,8BE9FD&height=220&section=header&text=Karla%20Renata&fontSize=72&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=58A6FF%2CC6E2FF&amp;height=220&amp;section=header&amp;text=Karla%20Renata&amp;fontSize=72&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&amp;descAlignY=58&amp;descSize=22&amp;descColor=FFFFFF" width="100%"/>
 </div>
 
 <br>
@@ -123,6 +123,7 @@ Se o seu desafio envolve **dados, automação ou processos** — adoraria entend
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,BC8CFF,8BE9FD&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=58A6FF%2CC6E2FF&amp;height=100&amp;section=footer" width="100%"/>
+  <br>
   <sub><i>Última atualização: Abril de 2026</i></sub>
 </div>
