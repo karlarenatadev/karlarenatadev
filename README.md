@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,C6E2FF&height=220&section=header&text=Karla%20Renata&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,BC8CFF,8BE9FD&height=220&section=header&text=Karla%20Renata&fontSize=72&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Data%20Intelligence%20%7C%20Business%20Automation%20%7C%20Cloud&descAlignY=58&descSize=22&descColor=000000" width="100%"/>
 </div>
+
 <br>
 
 <div align="center">
@@ -13,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://karlarenatadev.github.io/portfolio-karla-renata/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=58A6FF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=BC8CFF" alt="Portfolio"/>
   </a>
 </div>
 
@@ -40,9 +41,9 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 | Frente | Descrição |
 |:---|:---|
-| ☁️ **Analytics na AWS** | Soluções ponta a ponta com QuickSight, Athena e S3, focadas em performance e custo |
-| 🤖 **Modelos Preditivos** | *Predictive Deal Scoring* com Gradient Boosting para estratégias de vendas |
-| ⚙️ **Automação com IA** | Aplicações web integrando bancos de dados, APIs e IA Generativa |
+| ☁️ **Analytics na AWS** | Soluções ponta a ponta com QuickSight, Athena e S3, focadas em performance e custo. |
+| 🤖 **Modelos Preditivos** | *Predictive Deal Scoring* com Gradient Boosting para estratégias de vendas. |
+| ⚙️ **Automação com IA** | Aplicações web integrando bancos de dados, APIs e IA Generativa. |
 
 ---
 
@@ -88,6 +89,7 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 | **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
 | **[📈 Predictive Deal Scoring]([INSERIR-LINK-AQUI])** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
 | **[⚙️ Engenharia de Dados TOTVS]([INSERIR-LINK-AQUI])** | Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia e ML. | `Python` `ETL` `ML` |
+
 ---
 
 ## 📈 Estatísticas
@@ -121,6 +123,6 @@ Se o seu desafio envolve **dados, automação ou processos** — adoraria entend
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,C6E2FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=gradient&customColorList=58A6FF,BC8CFF,8BE9FD&height=100&section=footer"/>
   <sub><i>Última atualização: Abril de 2026</i></sub>
 </div>
