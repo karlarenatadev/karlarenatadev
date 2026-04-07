@@ -81,41 +81,20 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&amp;repo=projeto-final-bootcamp-avantiia-ciencia-de-dados&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=BC8CFF&amp;hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/karlarenatadev/agente-de-ia-e-whatsapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&amp;repo=agente-de-ia-e-whatsapp&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=BC8CFF&amp;hide_border=true" width="400" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/karlarenatadev/projeto-simulados-certificacao-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&amp;repo=projeto-simulados-certificacao-aws&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=BC8CFF&amp;hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlarenatadev&amp;repo=fluxo-de-entrevistas-n8n&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=BC8CFF&amp;hide_border=true" width="400" />
-  </a>
-</div>
-
-<br>
-
-**📈 [Predictive Deal Scoring]([INSERIR-LINK-AQUI])** Modelo de ML para priorização de leads e análise de conversão em tempo real — direto na esteira comercial.  
-`Python` `Gradient Boosting` `SQL`
-
-**⚙️ [Engenharia de Dados TOTVS]([INSERIR-LINK-AQUI])** Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia de Dados e ML.  
-`Python` `ETL` `Machine Learning`
-
+| 🎯 Projeto | 📝 Descrição | 🛠️ Stack |
+| :--- | :--- | :--- |
+| **[🤖 Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de IA com WhatsApp para criar fluxos de atendimento automatizados e inteligentes. | `Python` `IA Generativa` `APIs` |
+| **[📉 Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos. | `Python` `Scikit-Learn` |
+| **[☁️ Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | PWA interativa para prática de certificação AWS com geração dinâmica de questões. | `Node.js` `JavaScript` `Gemini API` |
+| **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
+| **[📈 Predictive Deal Scoring]([INSERIR-LINK-AQUI])** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
+| **[⚙️ Engenharia de Dados TOTVS]([INSERIR-LINK-AQUI])** | Pipelines de dados e modelagem avançada explorando fundamentos de Engenharia e ML. | `Python` `ETL` `ML` |
 ---
 
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlarenatadev&amp;layout=compact&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;hide_border=true" height="170" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&amp;background=0D1117&amp;ring=58A6FF&amp;fire=BC8CFF&amp;currStreakNum=C9D1D9&amp;sideNums=8B949E&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=8B949E&amp;hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" height="190" alt="GitHub Streak"/>
 </div>
 
 <br>
