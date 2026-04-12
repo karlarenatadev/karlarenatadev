@@ -94,7 +94,18 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" height="190" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-25%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud/AWS-20%25-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karlarenatadev&theme=tokyonight&hide_border=true" width="400" alt="Estatísticas Gerais" />
+
+  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
 <br>
