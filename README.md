@@ -67,9 +67,9 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 ### ⚙️ Automação & Desenvolvimento
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 </div>
 
@@ -83,11 +83,13 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 | 🎯 Projeto | 📝 Descrição | 🛠️ Stack |
 | :--- | :--- | :--- |
+| **[🏦 Bank API 2.0](https://github.com/karlarenatadev/bank-api)** | API backend construída com arquitetura assíncrona e autenticação JWT para o bootcamp da LuizaLabs. | `Python` `FastAPI` `SQLAlchemy` |
+| **[📊 KR-Strategist](https://github.com/karlarenatadev/kr-strategist)** | Aplicação em nuvem para inteligência estratégica, integrando IA Generativa e upload dinâmico de dados. | `Python` `Streamlit` `Groq API` |
 | **[🤖 Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de IA com WhatsApp para criar fluxos de atendimento automatizados e inteligentes. | `Python` `IA Generativa` `APIs` |
-| **[📉 Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos. | `Python` `Scikit-Learn` |
 | **[☁️ Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | PWA interativa para prática de certificação AWS com geração dinâmica de questões. | `Node.js` `JavaScript` `Gemini API` |
-| **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
 | **[📈 Predictive Deal Scoring](https://github.com/karlarenatadev/projeto-ml-deal-scoring)** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
+| **[📉 Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos. | `Python` `Scikit-Learn` |
+| **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
 
 ---
 
