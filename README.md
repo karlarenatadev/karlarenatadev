@@ -83,7 +83,7 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 | 🎯 Projeto | 📝 Descrição | 🛠️ Stack |
 | :--- | :--- | :--- |
-| **[🏦 Bank API 2.0](https://github.com/karlarenatadev/bank-api)** | API backend construída com arquitetura assíncrona e autenticação JWT para o bootcamp da LuizaLabs. | `Python` `FastAPI` `SQLAlchemy` |
+| **[🏦 Bank API 2.0](https://github.com/karlarenatadev/bank-api-python)** | API backend construída com arquitetura assíncrona e autenticação JWT para o bootcamp da LuizaLabs. | `Python` `FastAPI` `SQLAlchemy` |
 | **[📊 KR-Strategist](https://github.com/karlarenatadev/kr-strategist)** | Aplicação em nuvem para inteligência estratégica, integrando IA Generativa e upload dinâmico de dados. | `Python` `Streamlit` `Groq API` |
 | **[🤖 Agente de IA & WhatsApp](https://github.com/karlarenatadev/agente-de-ia-e-whatsapp)** | Integração de IA com WhatsApp para criar fluxos de atendimento automatizados e inteligentes. | `Python` `IA Generativa` `APIs` |
 | **[☁️ Cloud Certification Study Tool](https://github.com/karlarenatadev/projeto-simulados-certificacao-aws)** | PWA interativa para prática de certificação AWS com geração dinâmica de questões. | `Node.js` `JavaScript` `Gemini API` |
