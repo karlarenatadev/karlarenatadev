@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://karlarenatadev.github.io/portfolio-karla-renata/" target="_blank">
+  <a href="https://portfolio-karla-renata.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=BC8CFF" alt="Portfolio"/>
   </a>
 </div>
