@@ -24,9 +24,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou **Karla Renata**, estudante de Ciência da Computação e Analista de Dados na **a3data**. Com mais de **10 anos de background em estratégia comercial e digital**, minha especialidade está na interseção entre tecnologia e negócios — traduzindo problemas complexos em arquiteturas de dados que geram resultados reais.
+Sou **Karla Renata**, estudante de Ciência da Computação e profissional em formação na área de **Dados, Analytics e Automação com IA**.
 
-Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** para otimizar custos, automatizar processos e orientar decisões com base em evidências.
+Tenho cerca de **10 anos de experiência em estratégia comercial e digital**, o que me ajuda a construir soluções técnicas com olhar de negócio: dashboards, pipelines, automações, APIs e modelos preditivos voltados para tomada de decisão.
+
+Atualmente venho aprofundando minha atuação em **Python, SQL, Power BI, Machine Learning, FastAPI, Cloud AWS e aplicações com IA Generativa**, sempre buscando transformar dados em produtos úteis, claros e acionáveis.
 
 <br>
 
@@ -37,13 +39,23 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 ---
 
+## 🚀 Foco Atual
+
+- Construção de soluções de **Analytics e Forecast Comercial**
+- Desenvolvimento de aplicações com **FastAPI, Python e IA Generativa**
+- Estudos em **AWS, Machine Learning e Engenharia de Dados**
+- Evolução de projetos próprios voltados para **automação, carreira e inteligência de negócio**
+
+---
+
 ## 🔭 O Que Estou Construindo Agora
 
-| Frente | Descrição |
+| Frente | O que estou desenvolvendo |
 |:---|:---|
-| ☁️ **Analytics na AWS** | Soluções ponta a ponta com QuickSight, Athena e S3, focadas em performance e custo. |
-| 🤖 **Modelos Preditivos** | *Predictive Deal Scoring* com Gradient Boosting para estratégias de vendas. |
-| ⚙️ **Automação com IA** | Aplicações web integrando bancos de dados, APIs e IA Generativa. |
+| 📊 **Forecast & Analytics Comercial** | Dashboards e análises para acompanhar receita, deals, clientes, margem, NRR e impacto financeiro. |
+| 🤖 **IA aplicada a produtos** | Agentes, automações e aplicações que usam IA para apoiar documentação, carreira, atendimento e análise de dados. |
+| ☁️ **Cloud & Dados na AWS** | Estudos e projetos com S3, Athena, QuickSight, CloudFormation e serviços voltados para dados. |
+| 🧠 **Machine Learning aplicado** | Modelos preditivos para scoring, priorização, classificação e análise de comportamento. |
 
 ---
 
@@ -52,27 +64,30 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 <div align="center">
 
 ### 📊 Dados & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=python&logoColor=white)
 
-### ☁️ Cloud & Infraestrutura
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
-![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-### ⚙️ Automação & Desenvolvimento
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### ☁️ Cloud & Dados
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="Amazon S3"/>
+<img src="https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Athena"/>
+<img src="https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="QuickSight"/>
+
+### 🗄️ Banco de Dados & Versionamento
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 
 </div>
-
 ---
 
 ## 📂 Projetos em Destaque
@@ -93,27 +108,49 @@ Construo soluções que unem **Machine Learning**, **Analytics** e **Cloud** par
 
 ---
 
+## 🧭 Interesses Técnicos
+
+- Data Products
+- Business Intelligence
+- Machine Learning aplicado a negócios
+- APIs com Python e FastAPI
+- Automação de processos com IA
+- Cloud Analytics na AWS
+- Documentação técnica e inteligência organizacional
+
+---
+
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-25%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud/AWS-20%25-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karlarenatadev&theme=tokyonight&hide_border=true" 
+          width="390" 
+          alt="Estatísticas gerais do GitHub" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" 
+          width="390" 
+          alt="Sequência de contribuições no GitHub"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karlarenatadev&theme=tokyonight&hide_border=true" width="400" alt="Estatísticas Gerais" />
-
-  <img src="https://streak-stats.demolab.com/?user=karlarenatadev&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&bg_color=0D1117&color=8B949E&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="Gráfico de Atividade da Karla" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=karlarenatadev&bg_color=0D1117&color=8B949E&line=58A6FF&point=BC8CFF&area=true&hide_border=true" 
+    width="95%" 
+    alt="Gráfico de evolução de commits da Karla" 
+  />
 </div>
 
 ---
@@ -137,5 +174,5 @@ Se o seu desafio envolve **dados, automação ou processos** — adoraria entend
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=58A6FF%2CC6E2FF&amp;height=100&amp;section=footer" width="100%"/>
   <br>
-  <sub><i>Última atualização: Abril de 2026</i></sub>
+  <sub><i>Última atualização: Julho de 2026</i></sub>
 </div>
