@@ -48,17 +48,6 @@ Atualmente venho aprofundando minha atuação em **Python, SQL, Power BI, Machin
 
 ---
 
-## 🔭 O Que Estou Construindo Agora
-
-| Frente | O que estou desenvolvendo |
-|:---|:---|
-| 📊 **Forecast & Analytics Comercial** | Dashboards e análises para acompanhar receita, deals, clientes, margem, NRR e impacto financeiro. |
-| 🤖 **IA aplicada a produtos** | Agentes, automações e aplicações que usam IA para apoiar documentação, carreira, atendimento e análise de dados. |
-| ☁️ **Cloud & Dados na AWS** | Estudos e projetos com S3, Athena, QuickSight, CloudFormation e serviços voltados para dados. |
-| 🧠 **Machine Learning aplicado** | Modelos preditivos para scoring, priorização, classificação e análise de comportamento. |
-
----
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -88,6 +77,7 @@ Atualmente venho aprofundando minha atuação em **Python, SQL, Power BI, Machin
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 
 </div>
+
 ---
 
 ## 📂 Projetos em Destaque
@@ -105,18 +95,6 @@ Atualmente venho aprofundando minha atuação em **Python, SQL, Power BI, Machin
 | **[📈 Predictive Deal Scoring](https://github.com/karlarenatadev/projeto-ml-deal-scoring)** | Modelo de ML para priorização de leads e análise de conversão na esteira comercial. | `Python` `CatBoost` `SQL` |
 | **[📉 Previsão de Adoção de Pets](https://github.com/karlarenatadev/projeto-final-bootcamp-avantiia-ciencia-de-dados)** | Modelo preditivo (nota **9,31/10**) para estimar tempo de permanência de pets em abrigos. | `Python` `Scikit-Learn` |
 | **[📄 Fluxo de Entrevistas n8n](https://github.com/karlarenatadev/fluxo-de-entrevistas-n8n)** | Workflow de automação para otimizar triagem inicial de candidatos e reduzir trabalho manual. | `n8n` `IA` `APIs` |
-
----
-
-## 🧭 Interesses Técnicos
-
-- Data Products
-- Business Intelligence
-- Machine Learning aplicado a negócios
-- APIs com Python e FastAPI
-- Automação de processos com IA
-- Cloud Analytics na AWS
-- Documentação técnica e inteligência organizacional
 
 ---
 
